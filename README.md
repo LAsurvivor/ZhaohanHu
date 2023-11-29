@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Sherry <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Robert <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&size=25&center=true&vCenter=true&width=600&height=100&&color=F0B5F7&lines=ECE+Master+%40+CMU,;Software+Engineer,;Cloud+Computing❤,;Distributed+System❤" alt="Typing SVG" /></a>
@@ -7,35 +7,35 @@
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/xiaoxuanlu/">
-    <img alt="Sherry's LinkdeIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  <a href="https://www.linkedin.com/in/zhaohan-hu/">
+    <img alt="Robert's LinkdeIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
 
-  <a href="https://www.instagram.com/sherrrryxxl/?hl=en">
-    <img alt="Sherry's Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  <a href="https://www.instagram.com/lasurvivor/?hl=en">
+    <img alt="Robert's Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
 </p>
 
 
 <h2 align="center">Profile views :musical_keyboard:</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=XiaoxuanLu&color=ff69b4&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=ZhaohanHu&color=ff69b4&style=for-the-badge"/>
 </p>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/XiaoxuanLu/count.svg">
+  <img src="https://profile-counter.glitch.me/ZhaohanHu/count.svg">
 </p>
   
 
 
 <h2 align="center">Some of my statistics 🚀</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XiaoxuanLu&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZhaohanHu&show_icons=true&theme=tokyonight"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XiaoxuanLu&theme=tokyonight" alt="mystreak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZhaohanHu&theme=tokyonight" alt="mystreak"/>
 </p>
 <p align="center">
-  <img style="height:70%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoxuanLu&theme=tokyonight&layout=compact"/>
+  <img style="height:70%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhaohanHu&theme=tokyonight&layout=compact"/>
 </p>
 
 
